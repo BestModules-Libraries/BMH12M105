@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/BestModules-ArduinoLibraries/img/blob/main/BMH12M105_V1.0.png" width="480" height="200"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMH12M105_V1.0.png" width="480" height="240"> 
 </div> 
 
 BMH12M105 
