@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For BMH12M105
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+BMH12M105	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readWeight	KEYWORD2
+readRawADC	KEYWORD2
+readStatus	KEYWORD2
+calibrationZero	KEYWORD2
+calibrationMax	KEYWORD2
+sleep	KEYWORD2
+wake	KEYWORD2	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1	
+TIMEOUT_ERROR	LITERAL1
+
